@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/c461a215-a6b1-4a70-9082-e78e69308fc3
 ## How to Run
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/otp-email-verification.git
+   git clone https://github.com/neeldesaind/otp-email-verification.git
    cd otp-email-verification
 2. Make sure you have Node.js installed on your machine.
 3. Install the necessary dependencies for the backend (server-side code):
